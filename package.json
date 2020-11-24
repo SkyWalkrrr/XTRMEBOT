@@ -1,0 +1,22 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "Discord Bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Yannick Sax",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "mongoose": "^5.10.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
